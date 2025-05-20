@@ -3,6 +3,6 @@ Developed two Nim based games in python for CEID game theory elective
 
 Read the full report (NE509_LAB1_2025_1093306_REPORT_V1.0.pdf) to understand the game strategy including info on how to play.
 
-You can download the two apps and run them by clicking on them (you might have to allow special permission).
+Download 1_Trojan_Horse and 2_Towers_on_Board and click on them to run (you might have to grant special permission).
 
 PS: Trojan_Horse is the name of the game so dont be scared :D
